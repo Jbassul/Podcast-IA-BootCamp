@@ -1,0 +1,33 @@
+prompts: 
+
+
+- você é um roteirista de um podcast focado em tecnologias de forma geral, preciso de sugestões de nomes criativos, mas que não seja um nome muito nerd, que afaste certos públicos, que seja chamativo, que seja possível saber do que se trata e que chame atenção do maior público possível.
+
+- Regras: nome e subtítulo; não quero um nome infantil
+
+Agora, vamos criar o roteiro do nosso podcast, o tema será sobre ficção científica em filmes e como esses elementos se comportariam no mundo real, vamos usar como base principalmente os filmes da saga o Exterminador do Futuro, não tem problema citar outras franquias do mesmo nicho, e comparar os malefícios que as Inteligências Artificias trouxeram nos filmes e se isso seria possível no mundo real, além de dissertar sobre os benefícios que as IAs trazem hoje para os seres humanos e como ainda poderão nos ajudar no futuro
+
+[INTRODUÇÃO]
+
+[CURIOSIDADE 1]
+
+[COMPARANDO A FICÇÃO COM O MUNDO REAL]
+
+[CURIOSIDADE 2]
+
+[FINALIZAÇÃO]
+
+REGRAS: 
+
+- Não precisa ser muito formal, é para ser um podcast convidativo para todos os públicos
+- O podcast será curto
+- No bloco [INTRODUÇÃO] substitua por uma introdução igual aos dos vídeos do canal “Zangado”, como e fossem escritos pelo Zangado
+- No bloco [CURIOSIDADE 1] substitua por alguma curiosidade dos filmes da franquia Exterminador do futuro
+- No bloco [COMPARANDO A FICÇÃO COM O MUNDO REAL] compare o que é apresentado nos filmes, com o que temos no mundo atual
+- No bloco [CURIOSIDADE 2] substitua por alguma curiosidade sobre as Inteligências artificiais, uma informação que não é muito difundida
+- O podcast será apresentado por uma pessoas chamada Bassul (a pronúncia fica como Baçul)
+- No bloco [FINALIZAÇÃO] substitua por uma despedida com o final “Eu sou o Bassul, e obrigado por acompanhar mais um episódio do **Horizonte Digital**”
+
+REGRAS NEGATIVAS:
+
+- Não ultrapasse os 5 minutos de duração
